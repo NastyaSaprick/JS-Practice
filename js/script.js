@@ -70,7 +70,7 @@ const appData = {
     appData.addServices();
     appData.addPrices();
 
-    appData.logger();
+    
 
     appData.showResult();
   },
